@@ -6,7 +6,7 @@ This project involves the creation of a Data Warehouse using dimensional modelin
 
 <p align="center">
   <img src="original_northwind_database.jpeg" alt="Image 1" style="display: inline-block; margin-right: 10px;">
-  ➡️
+  ⬇️
   <img src="northwind_dwh.jpg" alt="Image 2" style="display: inline-block; margin-left: 10px;">
 </p>
 
