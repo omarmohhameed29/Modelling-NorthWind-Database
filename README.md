@@ -4,6 +4,12 @@
 
 This project involves the creation of a Data Warehouse using dimensional modeling techniques applied to the Northwind sample database. The goal is to provide a structured and optimized schema for business intelligence and analytics purposes.
 
+<p align="center">
+  <img src="original_northwind_database.jpeg" alt="Image 1" style="display: inline-block; margin-right: 10px;">
+  ➡️
+  <img src="northwind_dwh.jpg" alt="Image 2" style="display: inline-block; margin-left: 10px;">
+</p>
+
 ## Table of Contents
 
 - [Data Modeling](#data-modeling)
